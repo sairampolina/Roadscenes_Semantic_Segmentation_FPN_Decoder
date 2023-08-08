@@ -1,4 +1,4 @@
-## Semantic_Segmentation_Using_RESNET18_Encoder_and_FPN_Decoder 
+## Semantic_Segmentation_Using_RESNET18_Encoder_FPN_Decoder 
 This repository includes the code to do semantic segmentation of road scenses using Camvid dataset.
 
 ![segmentation_result](https://github.com/sairampolina/Roadscenes_Semantic_Segmentation_FPN_Decoder/assets/48856345/00fc1450-7e4c-4f86-a000-1ea3f5fcb605)
