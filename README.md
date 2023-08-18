@@ -3,6 +3,9 @@ This repository includes the code to do semantic segmentation of road scenses us
 
 ![segmentation_result](https://github.com/sairampolina/Roadscenes_Semantic_Segmentation_FPN_Decoder/assets/48856345/00fc1450-7e4c-4f86-a000-1ea3f5fcb605)
 
+## Note:
+The resulting model obtained is not the optimal model.It has been trained just for few epochs. THe emphasis is laid on DataLoaders,and Training pipiline rather than results. Feelfree to start from the checkpoint and fine-tune the model.
+
 ## TO RUN
 1.Clone this repository:
 
