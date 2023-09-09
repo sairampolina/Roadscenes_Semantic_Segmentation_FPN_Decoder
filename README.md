@@ -6,8 +6,11 @@ This repository includes the code to do END-TO-END semantic segmentation of road
 * The emphasis is laid on **End-to End semantic segmenation** pipeline (DataLoaders,and Training pipiline) rather than results. 
 * Feelfree to start from the checkpoint and fine-tune the model.
 
-![segmentation_result](https://github.com/sairampolina/Roadscenes_Semantic_Segmentation_FPN_Decoder/assets/48856345/00fc1450-7e4c-4f86-a000-1ea3f5fcb605)
+![train_val_loss](https://github.com/sairampolina/Roadscenes_Semantic_Segmentation_FPN_Decoder/assets/48856345/9821b64f-452b-4bb0-9804-2fab0a2e5a69)
+![mIoU](https://github.com/sairampolina/Roadscenes_Semantic_Segmentation_FPN_Decoder/assets/48856345/90b415b3-2b13-4406-94fe-b00f1bde9dce)
 
+
+![results](https://github.com/sairampolina/Roadscenes_Semantic_Segmentation_FPN_Decoder/assets/48856345/db572031-60cf-44b4-b4d8-1ff2006625a0)
 
 
 ## TO RUN
